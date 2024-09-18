@@ -1,5 +1,5 @@
 
-```markdown
+
 # Space Game
 
 A simple 2D space shooter game developed using Python and the Pygame library. The game allows players to control a spaceship, navigate through space, and shoot enemies to earn points. It features basic game mechanics like movement, shooting, and collision detection, making it an ideal project for learning game development with Pygame.
@@ -29,7 +29,7 @@ A simple 2D space shooter game developed using Python and the Pygame library. Th
    ```bash
    git clone https://github.com/Vipul2912/space_game.git
    cd space_game
-   ```
+
 
 2. **Install Pygame:**
 
